@@ -1,0 +1,14 @@
+.par{
+    
+    float: right;
+}
+.seca{
+    width: 100%;
+    height: 10rem;
+    background-color: blue;
+}
+.secb{
+    width: 100%;
+    height: 10rem;
+    background-color: green;
+}
