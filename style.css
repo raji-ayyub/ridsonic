@@ -96,7 +96,6 @@ section{
     background-size: cover;
     background-repeat: no-repeat;
     backdrop-filter: blur(8px);
-   
     position: relative;
 
 }
@@ -1341,12 +1340,18 @@ section p{
 
   /* ...desktop view.... */
 
+  .navleft img{
+    width: 4rem;
 
+    }
 
 
   @media only screen and (min-width:478px){
 
+    .navleft img{
+        width: 4rem;
 
+    }
     .navbar h1::after{
         content: "Gajvolt Technologies world ";
     }
